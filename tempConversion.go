@@ -10,5 +10,5 @@ func main(){
     fmt.Println("The entered temperature value is", tempF, "F")
 
     tempC := (tempF - 32) * 5/9
-    fmt.Println("The temperature in Celcius is:", tempC, "C")
+    fmt.Println("The temperature in Celsius is:", tempC, "C")
 }
