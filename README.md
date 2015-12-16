@@ -6,6 +6,8 @@ Before running, make sure Go is installed properly as per the Go documentation.
 
 # Files included
 * tempConversion.go
+* LICENSE.md
+* README.md
 
 # Executing the Go program in Bash or shell terminal
 `go run tempConversion.go`
