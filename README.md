@@ -7,8 +7,7 @@ Before running, make sure Go is installed properly as per the Go documentation.
 # Files included
 * tempConversion.go
 
-# Executing the Go program
-* Bash or shell terminal
+# Executing the Go program in Bash or shell terminal
 `go run tempConversion.go`
 
 # Compiling the source code
